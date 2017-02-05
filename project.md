@@ -1,17 +1,25 @@
-开源项目目录规范
-==========================
+# 开源项目目录规范
 
-此为前端开发团队遵循和约定的**开源项目目录规范**，意在实现开源项目目录结构的一致性。
+## 项目命名
 
-## 说明
-文档中使用的关键字「MUST」,「MUST NOT」,「REQUIRED」,「SHALL」,「SHALL
-NOT」,「SHOULD」,「SHOULD NOT」,「RECOMMENDED」,「MAY」和「OPTIONAL」在[RFC2119](http://oss.org.cn/man/develop/rfc/RFC2119.txt)中被说明。
+全部采用小写方式， 以下划线分隔。
 
-## 文件、目录命名
+例：my_project_name
 
-html、css、js、tpl等项目文件请用小写字母加`_`命名
+## 目录命名
 
-github项目使用`-`命名
+参照项目命名规则；
+
+有复数结构时，要采用复数命名法。
+
+例：scripts, styles, images, data_models
+
+## CSS、JS文件命名
+
+参照项目命名规则。
+
+例：account_model.js
+
 
 ## 目录规范
 
