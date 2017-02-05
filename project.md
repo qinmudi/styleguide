@@ -20,7 +20,6 @@ github项目使用`-`命名
 ```
 .
 ├── .editorconfig
-├── .travis.yml
 ├── css
 ├── dist
 ├── examples
