@@ -9,7 +9,7 @@ NOT」,「SHOULD」,「SHOULD NOT」,「RECOMMENDED」,「MAY」和「OPTIONAL�
 
 ## 文件、目录命名
 
-小写 + 下划线（禁止使用大写及其它字符）
+html、css、js、tpl等项目文件请用小写字母加下划线命名
 
 ``` 
 // good
