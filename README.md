@@ -11,7 +11,5 @@
 ## 参考
 
 https://github.com/google/styleguide/blob/gh-pages/docguide/style.md
-
 https://github.com/hhaimaster/CodeGuide
-
 https://github.com/hhaimaster/styleguide
