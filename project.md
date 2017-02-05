@@ -4,7 +4,7 @@
 
 全部采用小写方式， 以下划线分隔。
 
-例：my_project_name
+例：`my_project_name`
 
 ## 目录命名
 
@@ -12,13 +12,13 @@
 
 有复数结构时，要采用复数命名法。
 
-例：scripts, styles, images, data_models
+例：`scripts`, `styles`, `images`, `data_models`
 
 ## CSS、JS文件命名
 
 参照项目命名规则。
 
-例：account_model.js
+例：`account_model.js`
 
 
 ## 目录规范
