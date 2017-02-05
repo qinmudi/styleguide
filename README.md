@@ -10,6 +10,7 @@
 
 ## 参考
 
+- http://docs.daocloud.io/write-docs/format
 - https://github.com/hhaimaster/CodeGuide
 - https://github.com/hhaimaster/styleguide
 - https://github.com/google/styleguide/blob/gh-pages/docguide/style.md
