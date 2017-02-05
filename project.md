@@ -9,17 +9,9 @@ NOT」,「SHOULD」,「SHOULD NOT」,「RECOMMENDED」,「MAY」和「OPTIONAL�
 
 ## 文件、目录命名
 
-html、css、js、tpl等项目文件请用小写字母加下划线命名
+html、css、js、tpl等项目文件请用小写字母加`_`命名
 
-``` 
-// good
-project_console/
-console_base.js
-
-// bad
-projectConsole
-consoleBase.js
-```
+github项目使用`-`命名
 
 ## 目录规范
 
@@ -31,7 +23,7 @@ consoleBase.js
 ├── .travis.yml
 ├── css
 ├── dist
-├── doc
+├── examples
 ├── README.md
 ├── src
 ```
@@ -57,6 +49,10 @@ consoleBase.js
 * less 格式的样式文件应当「SHOULD」统一存放在 `less` 目录下面。
 * sass 格式的样式文件应当「SHOULD」统一存放在 `sass` 目录下面。
 
+### examples
+
+存放详细的示例文件
+
 ### doc
 
 所有项目应当「SHOULD」包含一个 `doc` 目录，用来存放详细的 API 使用文档。
@@ -74,7 +70,3 @@ dist 作为项目输出目录，所有编译生成、提供给用户使用的文
 ### test
 
 所有测试相关代码应当「SHOULD」放在此目录。
-
-### src_cov
-
-为了测试代码覆盖率，所有为测试覆盖率生成的新 JS 文件应当「SHOULD」存放在此目录下面。
